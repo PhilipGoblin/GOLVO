@@ -152,7 +152,7 @@ void loop() {
   Serial.println("Left\tFront\tRight");
   Serial.print(distance_left);
   Serial.print("\t");
-  Serial.print(distance_front);
+  Serial.print(distance_front9);
   Serial.print("\t");
   Serial.println(distance_right);
 }
